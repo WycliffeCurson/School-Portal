@@ -5,3 +5,10 @@ main colours for the site;
 #615335
 #181b4c
 **use the 60 30 10 rule respectively
+
+Suggested 4 Homepage Categories (Simple & Clean)
+
+🟦 1. Students
+🟩 2. Teachers
+🟨 3. Academics
+🟥 4. Administration
